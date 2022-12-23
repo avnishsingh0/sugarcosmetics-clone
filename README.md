@@ -4,13 +4,13 @@ This is a collaborative Project from Masai School in the Construct Week develope
 
 
 
-1. Shubham Verma 
+1. Shubham Verma :- https://github.com/Shubhamverma94 , https://www.linkedin.com/in/shubhamverma17/
 
-2. Tejasvi Bishnoi
+2. Tejasvi Bishnoi :- https://github.com/TejasBishnoi21  , https://www.linkedin.com/in/tejasvi-bishnoi-81294b14a/
 
-3. Avnish Singh
+3. Avnish Singh :- https://github.com/avnishsingh0 , https://www.linkedin.com/in/avnish-kumar-a9347b239/
 
-4. Devendra Kumar
+4. Devendra Kumar :- https://github.com/Devendra0192 , https://www.linkedin.com/in/devendrakumar9161/
 
 💻Project Unique Name :- Masai Cosmetics ✈️
 ---
