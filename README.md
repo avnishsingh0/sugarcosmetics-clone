@@ -2,13 +2,13 @@
 ---
 This is a collaborative Project from Masai School in the Construct Week developed in 5 days. We are a team of 5 members:
 
-1. Vivek
 
-2. Shubham Verma 
 
-3. Tejasvi Bishnoi
+1. Shubham Verma 
 
-4. Avnish Singh
+2. Tejasvi Bishnoi
+
+3. Avnish Singh
 
 4. Devendra Kumar
 
