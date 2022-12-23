@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+✨SUGAR COSMETICS-Clone✨
+---
+This is a collaborative Project from Masai School in the Construct Week developed in 5 days. We are a team of 5 members:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. Vivek
 
-## Available Scripts
+2. Shubham Verma 
 
-In the project directory, you can run:
+3. Tejasvi Bishnoi
 
-### `npm start`
+4. Avnish Singh
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+4. Devendra Kumar
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+💻Project Unique Name :- Masai Cosmetics ✈️
+---
+About SUGAR COSMETICS:- SUGAR Cosmetics, a cult-favourite amongst Gen Z and millennials, is one of the fastest-growing premium beauty brands in India. With its clutter-breaking persona, signature low-poly packaging and chart-topping products, SUGAR is the makeup of choice for bold, independent women who refuse to be stereotyped into roles.
 
-### `npm test`
+<img src="https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fd32baadbbpueqt.cloudfront.net%2FHomepage%2Fa7bfdf05-ad0e-4c24-ab48-7ff64e9115b8.jpg&w=1920&q=75"/>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img src="https://in.sugarcosmetics.com/_next/image?url=https://d32baadbbpueqt.cloudfront.net/Homepage/b16a42b1-3e35-42bb-b122-a517e75c490e.jpg&w=1920&q=75"/>
+💫Tech & Tools Used :
+---
 
-### `npm run build`
+For Frontend : HTML5, CSS3, Javascript, JS6, ReactJS Redux.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+For database: Json Server (cyclic).
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Chakra UI (UI Styling Library) Styled-Components.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+For authentication: Google firebase authentication.
 
-### `npm run eject`
+---
+Steps to run the project locally:-
+1. Clone the code from github
+2. Run 'npm install' /'npm install -f'
+3. Run 'npm start'
+4. Enjoy! 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
+Deployed Link : https://masai-cosmetics.netlify.app/
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Project Presentation : https://drive.google.com/file/d/1ApSjdmJpv5J4WRk7N0l5rX0jccfM1ncq/view?usp=sharing
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+----
+<h1 align="center">✨Thank You✨</h1>
