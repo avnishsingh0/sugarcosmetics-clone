@@ -1,12 +1,13 @@
 
 .outer_box{
-    width:99%;
+    width:98.6%;
     /* height:600px; */
     background-color:black;
     padding:10px;
     margin:auto;
     margin-top: 150px;
     color: white;
+    border: 0px solid red;
 }
 .sugar_logo_box{
     width: 170px;

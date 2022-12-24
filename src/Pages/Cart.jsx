@@ -41,7 +41,8 @@ console.log(cart.length)
     
       <div className='cart_page'>
         <div>
-        { cart.map(cart=>{
+        {cart.length>0 ? (
+            cart.map(cart=>{
             return(
                 <>
                 <hr />
@@ -69,8 +70,18 @@ console.log(cart.length)
                 </>
             )
         })
-      }
+        ):(
+            <h1>No items</h1>
+        ) }
         </div>
+        
+        
+        
+        
+        
+        
+        
+        
         <div>
             {
                 cart.map(cart=>{

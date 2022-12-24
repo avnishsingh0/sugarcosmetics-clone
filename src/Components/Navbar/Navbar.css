@@ -1,8 +1,7 @@
-/* * {
-  margin: 0;
-  padding: 0;
-  box-sizing: 0;
-} */
+* {
+  /* margin: 0; */
+
+}
 #upperNavbar {
   width: 100%;
   background-color: black;
